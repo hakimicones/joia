@@ -1,0 +1,6 @@
+pdfs/
+inventory/
+__pycache__/
+*.pyc
+.venv/
+venv/
